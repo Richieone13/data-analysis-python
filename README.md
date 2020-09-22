@@ -1,4 +1,4 @@
-# Data_Analysis_Python
+# Data Analysis Python
 Data Wrangling with Pandas and Numpy
 
 ## Projects:
